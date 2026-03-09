@@ -1,0 +1,7 @@
+1,Ana,60,F
+2,Matheus,42,M
+4,Juliana,27,F
+5,Laura,20,F
+6,Silvania,55,F
+7,Izabela,23,F
+8,Luis,37,M
